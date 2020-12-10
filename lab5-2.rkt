@@ -1,6 +1,6 @@
 #lang racket
-;; Write a recursive function (positions N A L) which takes an element A and
-;; a list L and returns a list of numbers identifying the positions at which A occurs in the list L.
+;; Write a recursive function (positions N A L) which takes an element A and a list L and
+;; returns a list of numbers identifying the positions at which A occurs in the list L.
 ;; The argument N to this function identifies the number that should be given to the very first element in the list.
 ;; A hint: both N and L will need to change on the recursive call.
 
